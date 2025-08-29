@@ -5,7 +5,7 @@
 This contains everything you need to run your app locally.
 
 
-![image alt]
+![image alt]("https://github.com/Thrishal1105/Virtual-Clothes-Try-On-AI/blob/c288eb0f8144da9e9328ae9bd08c052e0d34dfc7/Screenshot%202025-08-29%20150000.png")
 
 ## Run Locally
 
